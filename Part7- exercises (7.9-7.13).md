@@ -1,9 +1,9 @@
-Exercises 7.9-7.13: Redux Basics
+Exercise 7.3: Redux Basics
 
 Goal: Create Redux slices and connect them to the bloglist app.
 What i did:
 
-Setup Redux Toolkit and created a a blogSlice to manage blogs.
+Setup Redux Toolkit and created a blogSlice to manage blogs.
 Added actions for setting and adding blogs.
 Connected Redux store to the React app.
 
